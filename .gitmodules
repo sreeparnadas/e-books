@@ -1,0 +1,6 @@
+[submodule "books-online-api"]
+	path = books-online-api
+	url = https://github.com/sreeparnadas/books-online-api.git
+[submodule "books-online-angular"]
+	path = books-online-angular
+	url = https://github.com/sreeparnadas/books-online-angular.git
